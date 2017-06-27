@@ -142,7 +142,7 @@
 <div class="modal-body">
 <h2>Nombre de visualización</h2>
 <hr class="star-primary">
-<img src="img/dg.jpg" class="img-responsive img-centered" alt="">
+<img src="img/viz-1.png" class="img-responsive img-centered" alt="">
 <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
 <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
 </div>
@@ -168,7 +168,7 @@
 <div class="modal-body">
 <h2>Nombre de visualización</h2>
 <hr class="star-primary">
-<img src="img/dg.jpg" class="img-responsive img-centered" alt="">
+<img src="img/viz-2.png" class="img-responsive img-centered" alt="">
 <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
 <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
 </div>
@@ -194,7 +194,7 @@
 <div class="modal-body">
 <h2>Nombre de visualización</h2>
 <hr class="star-primary">
-<img src="img/dg.jpg" class="img-responsive img-centered" alt="">
+<img src="img/viz-3.png" class="img-responsive img-centered" alt="">
 <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
 <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
 </div>
@@ -220,7 +220,7 @@
 <div class="modal-body">
 <h2>Nombre de visualización</h2>
 <hr class="star-primary">
-<img src="img/dg.jpg" class="img-responsive img-centered" alt="">
+<img src="img/viz-4.png" class="img-responsive img-centered" alt="">
 <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
 <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
 </div>
@@ -246,7 +246,7 @@
 <div class="modal-body">
 <h2>Nombre de visualización</h2>
 <hr class="star-primary">
-<img src="img/dg.jpg" class="img-responsive img-centered" alt="">
+<img src="img/viz-5.png" class="img-responsive img-centered" alt="">
 <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
 <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
 </div>
@@ -272,7 +272,7 @@
 <div class="modal-body">
 <h2>Nombre de visualización</h2>
 <hr class="star-primary">
-<img src="img/dg.jpg" class="img-responsive img-centered" alt="">
+<img src="img/viz-6.png" class="img-responsive img-centered" alt="">
 <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
 <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
 </div>
